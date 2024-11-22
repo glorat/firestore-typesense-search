@@ -149,16 +149,18 @@ params:
         value: asia-northeast2
       - label: Seoul (asia-northeast3)
         value: asia-northeast3
-      - label: Mumbai (asia-south1)
-        value: asia-south1
+      - label: Singapore (asia-southeast1)
+        value: asia-southeast1
       - label: Jakarta (asia-southeast2)
         value: asia-southeast2
-      - label: Montreal (northamerica-northeast1)
-        value: northamerica-northeast1
-      - label: Sao Paulo (southamerica-east1)
-        value: southamerica-east1
       - label: Sydney (australia-southeast1)
         value: australia-southeast1
+      - label: Mumbai (asia-south1)
+        value: asia-south1
+      - label: São Paulo (southamerica-east1)
+        value: southamerica-east1
+      - label: Montreal (northamerica-northeast1)
+        value: northamerica-northeast1
     default: us-central1
     required: true
     immutable: true
